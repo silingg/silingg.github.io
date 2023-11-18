@@ -12,3 +12,5 @@ Welcome! I'm a Ph.D. student in Human Development in the School of Education at 
 I hold a master's degree in Human Development from the Graduate School of Education at the Univeristy of Pennsylvania where I primarily worked with [Dr. Sharon Wolf](https://www.gse.upenn.edu/academics/faculty-directory/wolf). 
 
 I am passionate about child development, educational interventions, math education, and meta-science (meta-analysis and causal inference).
+
+You can find my CV [here] (https://github.com/silingg/silingg.github.io/blob/dc2ca338e79a3999a70f12d808db5f14c9250fc7/assets/CV_Siling%20Guo_23.pdf}
