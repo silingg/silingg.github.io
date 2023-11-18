@@ -13,4 +13,4 @@ I hold a master's degree in Human Development from the Graduate School of Educat
 
 I am passionate about child development, educational interventions, math education, and meta-science (meta-analysis and causal inference).
 
-You can find my CV [here] (https://github.com/silingg/silingg.github.io/blob/dc2ca338e79a3999a70f12d808db5f14c9250fc7/assets/CV_Siling%20Guo_23.pdf}
+You can find my CV here: [Siling Guo's CV] (../assets/CV_SilingGuo_23.pdf).
